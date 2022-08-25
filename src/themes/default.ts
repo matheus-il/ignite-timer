@@ -1,3 +1,3 @@
-export const DefaultTheme = {
+export const defaultTheme = {
     color: 'red',
 }
