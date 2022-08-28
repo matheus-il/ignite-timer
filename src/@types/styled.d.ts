@@ -1,5 +1,5 @@
 import 'styled-components'
-import { defaultTheme } from '../themes/default'
+import { defaultTheme } from '../styles/themes/default';
 
 // armazena typagem do tema criado
 type defaultThemeType = typeof defaultTheme;
